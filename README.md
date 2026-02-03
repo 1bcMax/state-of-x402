@@ -9,7 +9,7 @@ Research reports tracking the x402 agent payment protocol and the emerging auton
 - [State of x402 - December 2025 (Deck)](2025-december/State_of_x402_2025_Deck.pdf)
 
 ### January 2026 (Draft)
-- [State of x402 - January 2026](2026-january-draft/State_of_x402_Jan2026.pdf) - *Feedback welcome*
+- [State of x402 - January 2026 DRAFT](2026-january-draft/State_of_x402_Jan2026_DRAFT.pdf) - *Feedback welcome*
 
 ## About
 
